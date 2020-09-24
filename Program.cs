@@ -6,6 +6,7 @@ namespace Fibonacci
     {
         static void Main(string[] args)
         {
+            //testing
             const int AantalGetallen = 1000;
             double[] fibonnaci = vullArrayMetFibonacci(AantalGetallen);
             int volgnr = 0;
